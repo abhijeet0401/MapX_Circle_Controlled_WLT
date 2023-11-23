@@ -11,14 +11,7 @@
 
 
 ## Circle Developer-Controlled Wallet
-Circle Programmable Wallets revolutionize the landscape of managing Web3 digital currencies and NFTs for developers and users alike. Our developer-focused solution offers a seamless ecosystem for securely storing, effortlessly sending, and intelligently spending a wide array of digital assets, including cryptocurrencies and non-fungible tokens (NFTs).
-
-One of our standout features is the integration with MapX, empowering developers with the Circle Developer-Controlled Wallet. This integration enables the generation of a secure and easily accessible public address, streamlining the process of minting NFTs directly from the wallet. By leveraging this functionality, creators can efficiently mint their unique digital assets with confidence and convenience.
-
-Circle's commitment to security and user control ensures that developers have the tools they need to navigate the rapidly evolving Web3 landscape confidently. With our Developer-Controlled Wallet, users maintain full ownership and control over their assets, fostering a trustworthy environment for creating, managing, and exchanging digital valuables.
-
-Our goal is to empower developers to harness the potential of blockchain technology effortlessly. Through continuous innovation and user-centric design, Circle Programmable Wallets serve as a catalyst for the seamless integration and utilization of Web3 assets, making the process of minting NFTs and managing digital currencies a frictionless experience.
-
+Through the integration of Circle's Developer-Controlled Wallet with MapX, we've created a powerful synergy for managing Web3 digital currencies and NFTs. This collaboration offers users a unified solution, enabling the generation of secure public addresses and facilitating the direct minting of NFTs. This seamless integration empowers creators by providing a streamlined process within the Circle ecosystem, ensuring the secure storage, efficient sending, and controlled spending of various digital assets. By combining Circle's Developer-Controlled Wallet with MapX, we aim to simplify the management of digital assets while retaining ownership and control in the hands of users, fostering a more accessible and secure environment for minting NFTs and managing Web3 assets
 
 
 <img src='Circle.png' />
