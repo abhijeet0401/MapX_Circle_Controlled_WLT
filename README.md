@@ -1,13 +1,13 @@
 ## Project Name :- EXPLORE THE WORLD VENTURE OUTSIDE TO CAPTURE GEO-TAGGED NFTs
 ### Team name :- MapX
-#### Hackathon Track :- XDC NETWORK
+#### Hackathon Track :- Polygon DevX [India] Hackathon X DoraHacks
 
 
 ##### Team Members
 - Abhijeet Singh (Leader) back-end, front-end, android-development
 - Yogesh Kute front-end, ui-ux, blockchain
 
-<img src='./MapX_XDC/screenshot/ss1.jpg' />
+<img src='./MapX_Circle/screenshot/ss1.jpg' />
 
 #### Project Description
 Businesses often find it difficult to market themselves to drive foot traffic. According to the US Bureau of labour statistics ,traditional businesses find it hard to market themselves to consumers
@@ -22,9 +22,9 @@ Traditional marketing methods have limitations such as high cost and being time-
 
  • The outbreak of the COVID-19 pandemic has devastated businesses worldwide. These businesses include restaurants, theme parks as well as shopping malls. Prolonged lockdown and safe-distancing measures drastically decreased the foot traffic and revenue of these businesses, forcingt hem to shut down or pivot.
 
-<img src='./MapX_XDC/screenshot/ss2.jpg' />
+<img src='./MapX_Circle/screenshot/ss2.jpg' />
 
-<img src='./MapX_XDC/screenshot/ss3.jpg' />
+<img src='./MapX_Circle/screenshot/ss3.jpg' />
 
 #### Summary
 A next-gen geo-tagged playground where players meet opportunities offered with a timeless technology. Map-based gameplay with capabilities to engage players and provide market visibility to enterprise.
@@ -77,35 +77,44 @@ Players are users who collect NFTs using the MapX app
 
 • Transferable vouchers. Traditional E- vouchers are often restricted to the person intended. Oftentimes, these vouchers are left unspent due to neglect,resulting in wastage.• Non-perishability. Traditional physical vouchers are susceptible to damage , making them a hassle to store. NFT vouchers are stored digitally in the player’s wallet,making them non-perishable
 
-• Transparent. Using the XDCand Filecoin blockchain, NFTs minted can be traced and observed by everyone XDC BLOCKCHAIN
+• Transparent. Using the Polygon  and Filecoin blockchain, NFTs minted can be traced and observed by everyone Polygon BLOCKCHAIN
 
 
 
-Why XDC : XDC Network is an enterprise-grade, open-source blockchain protocol. An EVM-compatible chain with enforceable smart contracts, it is uniquely suited to revolutionize, decentralize, and liquify the trade finance industry through the tokenization of real world assets and financial instruments.
+Why Polyhon : Polygon Network is an enterprise-grade, open-source blockchain protocol. An EVM-compatible chain with enforceable smart contracts, it is uniquely suited to revolutionize, decentralize, and liquify the trade finance industry through the tokenization of real world assets and financial instruments.
 
 
-<img src='./MapX_XDC/screenshot/ss5.jpg' />
+<img src='./MapX_Circle/screenshot/ss5.jpg' />
 
 
-Enterprise : The XDC Network is a groundbreaking blockchain with impressive speed, scalability, low fees, and military-grade security. Using XDC Network, businesses can improve their record keeping, exchange data and transfer assets more efficiently and more securely.
+Enterprise : The Polygon Network is a groundbreaking blockchain with impressive speed, scalability, low fees, and military-grade security. Using Polygon Network, businesses can improve their record keeping, exchange data and transfer assets more efficiently and more securely.
 
-Trade Finance : The XDC Network sets a benchmark for digitizing trade finance by enabling the tokenization of diverse trade finance instruments and assets.
+Trade Finance : The Polygon Network sets a benchmark for digitizing trade finance by enabling the tokenization of diverse trade finance instruments and assets.
 
-Developers & Creators : The XDC Network is an enterprise-grade, open-source and EVM-compatible Layer 1 blockchain. Geared to accommodate any EVM tool set, developers can carry their skills from other chains onto the XDC Network.
+Developers & Creators : The Polygon Network is an enterprise-grade, open-source and EVM-compatible Layer 1 blockchain. Geared to accommodate any EVM tool set, developers can carry their skills from other chains onto the Polygon Network.
 
 #### URLs
 https://youtu.be/4cOQlu_haEY
 
-#### Next Steps
-We Need support and contacts with vendors ,businesses and restaurants for testing and release of  our application 
 
 ## How to Install 
 1) Download the apk file [MAPX]([https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing](https://drive.google.com/file/d/1k66i3-EyOTOAWWFi0NIDwZe8rHCyzgCr/view?usp=sharing)) [https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing](https://drive.google.com/file/d/1k66i3-EyOTOAWWFi0NIDwZe8rHCyzgCr/view?usp=sharing) and install in your android phone 
 
 2) Catch all the NFTs
 
-<img src='./MapX_XDC/screenshot/ss4.jpg' />
+<img src='./MapX_Circle/screenshot/ss4.jpg' />
 
 ## Deployed smart contract 
+POLYGON
 
-xdcb80ED15BB5289c4AeabedF65D742a4470875F332
+## Circle Deployed smart contract 
+Circle Programmable Wallets revolutionize the landscape of managing Web3 digital currencies and NFTs for developers and users alike. Our developer-focused solution offers a seamless ecosystem for securely storing, effortlessly sending, and intelligently spending a wide array of digital assets, including cryptocurrencies and non-fungible tokens (NFTs).
+
+One of our standout features is the integration with MapX, empowering developers with the Circle Developer-Controlled Wallet. This integration enables the generation of a secure and easily accessible public address, streamlining the process of minting NFTs directly from the wallet. By leveraging this functionality, creators can efficiently mint their unique digital assets with confidence and convenience.
+
+Circle's commitment to security and user control ensures that developers have the tools they need to navigate the rapidly evolving Web3 landscape confidently. With our Developer-Controlled Wallet, users maintain full ownership and control over their assets, fostering a trustworthy environment for creating, managing, and exchanging digital valuables.
+
+Our goal is to empower developers to harness the potential of blockchain technology effortlessly. Through continuous innovation and user-centric design, Circle Programmable Wallets serve as a catalyst for the seamless integration and utilization of Web3 assets, making the process of minting NFTs and managing digital currencies a frictionless experience.
+
+
+<img src='architecture.jpg' />
