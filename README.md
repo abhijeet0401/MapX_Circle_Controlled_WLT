@@ -19,7 +19,7 @@ Our goal is to empower developers to harness the potential of blockchain technol
 
 
 
-<img src='./MapX_Circle/screenshot/Circle.png' />
+<img src='Circle.png' />
 
 #### Project Description
 Businesses often find it difficult to market themselves to drive foot traffic. According to the US Bureau of labour statistics ,traditional businesses find it hard to market themselves to consumers
@@ -96,7 +96,7 @@ Players are users who collect NFTs using the MapX app
 Why Polyhon : Polygon Network is an enterprise-grade, open-source blockchain protocol. An EVM-compatible chain with enforceable smart contracts, it is uniquely suited to revolutionize, decentralize, and liquify the trade finance industry through the tokenization of real world assets and financial instruments.
 
 
-<img src='./MapX_Circle/screenshot/ss5.jpg' />
+<img src='circle1.png' />
 
 
 Enterprise : The Polygon Network is a groundbreaking blockchain with impressive speed, scalability, low fees, and military-grade security. Using Polygon Network, businesses can improve their record keeping, exchange data and transfer assets more efficiently and more securely.
