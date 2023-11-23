@@ -112,7 +112,7 @@ https://drive.google.com/file/d/1q0fcWC_rBsEMlHk1cI5woxE_ueEDb-BW/view?usp=shari
 
 
 ## How to Install 
-1) Download the apk file [MAPX]([https://drive.google.com/file/d/10B-D_7QFL4hVLZRy4eTnUs0IUtc1SiMm/view?usp=sharing]) and install in your android phone 
+1) Download the apk file [MAPX] https://drive.google.com/file/d/10B-D_7QFL4hVLZRy4eTnUs0IUtc1SiMm/view?usp=sharing and install in your android phone 
 
 2) Catch all the NFTs
 
