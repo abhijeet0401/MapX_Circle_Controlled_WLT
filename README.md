@@ -4,9 +4,11 @@
 
 
 <img src='architecture.jpg' />
+
 ##### Team Members
 - Abhijeet Singh (Leader) back-end, front-end, android-development
 - Yogesh Kute front-end, ui-ux, blockchain
+
 
 ## Circle Developer-Controlled Wallet
 Circle Programmable Wallets revolutionize the landscape of managing Web3 digital currencies and NFTs for developers and users alike. Our developer-focused solution offers a seamless ecosystem for securely storing, effortlessly sending, and intelligently spending a wide array of digital assets, including cryptocurrencies and non-fungible tokens (NFTs).
@@ -110,7 +112,7 @@ https://youtu.be/4cOQlu_haEY
 
 
 ## How to Install 
-1) Download the apk file [MAPX]([https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing](https://drive.google.com/file/d/1k66i3-EyOTOAWWFi0NIDwZe8rHCyzgCr/view?usp=sharing)) [https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing](https://drive.google.com/file/d/1k66i3-EyOTOAWWFi0NIDwZe8rHCyzgCr/view?usp=sharing) and install in your android phone 
+1) Download the apk file [MAPX]([https://drive.google.com/file/d/10B-D_7QFL4hVLZRy4eTnUs0IUtc1SiMm/view?usp=sharing]) and install in your android phone 
 
 2) Catch all the NFTs
 
